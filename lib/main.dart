@@ -14,7 +14,7 @@ class App extends StatelessWidget {
       home: Scaffold(
         backgroundColor: const Color(0xFF181818),
         body: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 20),
+          padding: const EdgeInsets.symmetric(horizontal: 45),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
